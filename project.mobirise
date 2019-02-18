@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "welsh-water-lisvane-reservoir",
-    "currentPage": "index.html",
+    "currentPage": "lisvane-12354sdfkljsdlfkj546574oiutrymncdxzfv4562.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 244,
     "versionPublish": "4.8.6",
@@ -2171,6 +2171,12 @@
                 "text": "<b>South face</b> of scour outlet screen presents a fractured bar and debris lodge against it. The silt level appears to be below the screen.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
+              },
+              {
+                "active": true,
+                "text": "<b>Top face</b> of scour outlet screen appears to be intact, above the silt level with minor debris.",
+                "image": "@PROJECT_PATH@/assets/images/image5-2000x1463.jpg",
+                "showText": true
               }
             ]
           }
