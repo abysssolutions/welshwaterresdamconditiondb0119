@@ -4332,6 +4332,32 @@ body {
     width: 100% !important;
   }
 }
+.cid-riBuk32oc9 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-riBul2SXiv {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: #f9f9f9;
+}
+.cid-riBul2SXiv .image-block {
+  margin: auto;
+}
+.cid-riBul2SXiv figcaption {
+  position: relative;
+}
+.cid-riBul2SXiv figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-riBul2SXiv .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rihrHmJSW6 {
   padding-top: 60px;
   padding-bottom: 60px;
